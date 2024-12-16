@@ -35,7 +35,7 @@ export function Sidebar({ activePlatform, setActivePlatform, onClose }: SidebarP
     <div className="w-64 h-screen bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700">
       <div className="p-4">
         <div className="flex items-center justify-between mb-8">
-          <h2 className="text-xl font-bold text-primary">Interactive System</h2>
+          <h2 className="text-xl font-bold text-primary">IBS APP</h2>
           <button
             onClick={onClose}
             className="lg:hidden p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700"
